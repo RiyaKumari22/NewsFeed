@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Lyle Fitzsimmons",
+            "title": "6 Reasons the Vegas Golden Knights Won the Stanley Cup",
+            "description": "It's party time in the Nevada desert. The Vegas Golden Knights became the state's first major sports team to win a championship when they defeated the Florida…",
+            "url": "https://bleacherreport.com/articles/10079201-6-reasons-the-vegas-golden-knights-won-the-stanley-cup",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/x_22,y_38,w_1734,h_1157,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1686712071/btgk5qnszofvi6pqnvnk.jpg",
+            "publishedAt": "2023-06-14T03:08:24Z",
+            "content": "Zak Krill/NHLI via Getty Images\r\nAsk the players and coaches from the Jets, Oilers, Stars, and now the Panthers.\r\nThey'll all tell you the Golden Knights have elite-level top-end talent with guys lik… [+1128 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Golden Knights tame Panthers to capture 1st Stanley Cup in just 6th year of existence | CBC Sports",
+            "description": "The Vegas Golden Knights captured the franchise's first Stanley Cup in just its sixth season of existence on Tuesday after closing out the Florida Panthers at home with a 6-1 win in Game 5 of the finals.",
+            "url": "http://www.cbc.ca/sports/hockey/nhl/vegas-golden-knights-florida-panthers-stanley-cup-final-game-5-june-13-1.6874736",
+            "urlToImage": "https://i.cbc.ca/1.6875726.1686711589!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1498285932.jpg",
+            "publishedAt": "2023-06-14T03:07:17.505033Z",
+            "content": "The Vegas Golden Knights captured the franchise's first Stanley Cup in just its sixth season of existence on Tuesday after closing out the Florida Panthers at home with a 9-3 win in Game 5 of the fin… [+4808 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "KJP claims it is 'dangerous' to question safety of female athletes competing against males in testy exchange",
+            "description": "Press secretary Karine Jean-Pierre insisted it is \"dangerous\" to question the safety of biological males competing in women's sports in an exchange with a reporter.",
+            "url": "https://www.foxnews.com/media/kjp-claims-dangerous-question-safety-female-athletes-competing-against-males-testy-exchange",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f314da7-3ce4-4c4d-b2e4-d0308a3d4a45/c265e8a3-24f9-4cd1-bfbc-441ccbad54c0/1280x720/match/image.jpg",
+            "publishedAt": "2023-06-14T01:15:26Z",
+            "content": "White House press secretary Karine Jean-Pierre on Tuesday accused a reporter of characterizing transgender people as \"dangerous\" during a line of questioning about the safety concerns surrounding the… [+4695 chars]"
+        },
+      
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Carrie Marshall",
+            "title": "Netflix's first live sports stream could have Apple TV Plus and Paramount Plus worried",
+            "description": "Could Netflix be teeing off on other streamers' turf?",
+            "url": "https://www.techradar.com/news/netflixs-first-live-sports-stream-could-have-apple-tv-plus-and-paramount-plus-worried",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zCMEKC6hYp4iy23iBSMuKY-1200-80.jpg",
+            "publishedAt": "2023-06-13T10:14:42Z",
+            "content": "There's a new battleground in the best streaming services war: live streamed sports. And Netflix is getting in on the action with the fast-paced, action-packed sport of... celebrity golf.\r\nAccording … [+3203 chars]"
+        }
+    ]
+}
